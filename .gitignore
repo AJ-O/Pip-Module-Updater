@@ -2,3 +2,5 @@ work.txt
 geckodriver
 geckodriver.log
 .pylintrc
+testGui.py
+testPip.py
